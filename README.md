@@ -3,6 +3,7 @@
 I'm a web developer, and a DevOps when needed.
 
 - 🔭 Currently working on the deployment of a **Boundary Cluster** and **Vault** to manage all company machines.
+- 🚀 Previously built a **Kubernetes HA Cluster** on **AWS** (implemented with K3s).
 - 🌱 Always learning and experimenting with new technologies.
 
 ## 🔧 My Stack
@@ -14,6 +15,7 @@ I'm a web developer, and a DevOps when needed.
 - **IaC**: ![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?logo=opentofu&logoColor=000) (![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff))
 - **Security / Access**: ![Teleport](https://img.shields.io/badge/Teleport-542C85?logo=teleport&logoColor=fff), ![HashiCorp Boundary](https://img.shields.io/badge/Boundary-000?logo=hashicorp&logoColor=fff) (in progress)
 - **Monitoring / Observability**: ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff), ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff), ![Loki](https://img.shields.io/badge/Loki-4A90E2?logo=grafana&logoColor=fff)
+- **Orchestration**: ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff) (![K3S](https://img.shields.io/badge/K3s-FFC61C?logo=k3s&logoColor=000) HA setup on AWS)
 
 ## 🔒 Security & Tech Watch
 - 📡 Following **CVE reports** from [CERT-FR](https://www.cert.ssi.gouv.fr/), [CERT Santé](https://cyberveille.esante.gouv.fr/) and other sources
